@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Can bullet damage the wall
+To test the effectiveness of walls against bullets, amongst other things
